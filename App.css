@@ -1,0 +1,12 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Optional: Smooth scrolling for the whole app */
+html {
+  scroll-behavior: smooth;
+}
+
